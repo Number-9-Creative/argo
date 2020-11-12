@@ -1,0 +1,4 @@
+blossom:
+  ingress:
+    enabled: true
+    hostname: blossom.sievert.fun
