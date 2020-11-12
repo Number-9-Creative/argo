@@ -1,0 +1,7 @@
+name: blossom
+version: 0.0.1
+apiVersion: v2
+dependencies:
+  - name: wordpress
+    version: 9.9.3
+    repository: https://charts.bitnami.com/bitnami
